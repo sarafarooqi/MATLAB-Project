@@ -1,0 +1,36 @@
+Test Case 1
+
+Input:                                                              Output:
+Enter the symbol of the element you would like to search up:
+Mn                                                                  Element Symbol: Mn
+                                                                    Full Name: Manganese
+                                                                    Atomic Number: 25
+                                                                    Atomic Mass: 54.938
+                                                                    This element is in group 7 and this element is a metal
+                                                                    No bonds can be formed as the element exists in groups 3-12.The elements that exist in these groups are metals and they are highly reactive. It is beyond the scope of this table to determine which elements can bond with metals to make them stable.
+                                                                    Would you like to search up another element? Yes, or no?
+
+Input 2:        Output:
+No              Thank you for using the periodic table lookup
+
+Test Case 2
+
+Input:                                                              Output:
+Enter the symbol of the element you would like to search up:         
+Ci                                                                  Invalid input. The element you have entered does not exist on this table. Please try again.
+                                                                    Enter the symbol of the element you would like to search up:
+
+Test Case 3
+
+Input:                                                                 Output:
+Enter the symbol of the element you would like to search up:
+Cl                                                                      Element Symbol: Cl
+                                                                        Full Name: Chlorine
+                                                                        Atomic Number: 17
+                                                                        Atomic Mass: 35.453
+                                                                        This element is in group 17 and this element is a non-metal
+                                                                        This element has 1 valence electrons. This means it will bond with 1 Hydrogen atoms to become stable
+                                                                        Would you like to search up another element? Yes, or no?
+
+Input 2:     Output 2:
+Yes         Enter the symbol of the element you would like to search up:
